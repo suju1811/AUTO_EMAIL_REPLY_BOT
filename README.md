@@ -23,9 +23,6 @@ clone this repository
 # Install NPM dependencies
 npm install
 
-#Install googleapis and nodemon
-npm install googleapis nodemon
-
 # Then simply start your app
 npm start
 ```
